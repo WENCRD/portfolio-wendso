@@ -3,7 +3,7 @@ export default function CV() {
     <div className="flex flex-col lg:flex-row bg-white text-gray-900 max-w-6xl mx-auto rounded-lg overflow-hidden shadow-md">
       {/* Partie gauche */}
       <div className="bg-gray-100 p-6 w-full lg:w-1/3 flex flex-col items-center text-center space-y-6">
-        <img src="public/PI WENDSO.jpeg" alt="Wendso Cardon" className="rounded-full w-40 h-40 object-cover" />
+        <img src="/PI WENDSO.jpeg" alt="Wendso Cardon" />
 
         <div>
           <h2 className="text-xl font-bold mb-2">Profil</h2>
